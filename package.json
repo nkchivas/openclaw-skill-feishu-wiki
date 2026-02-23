@@ -1,0 +1,15 @@
+{
+  "name": "feishu-wiki",
+  "version": "1.0.0",
+  "description": "|",
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "created": "2026-02-23T11:48:26.703434",
+  "type": "extension-skill",
+  "files": [
+    "SKILL.md"
+  ],
+  "file_count": 1,
+  "source": "OpenClaw Extension",
+  "location": "/opt/homebrew/Cellar/openclaw-cli/2026.2.21-2/libexec/lib/node_modules/openclaw/extensions"
+}
